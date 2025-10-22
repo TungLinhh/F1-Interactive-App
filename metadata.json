@@ -1,0 +1,5 @@
+{
+  "name": "F1 Interactive Race Visualizer",
+  "description": "A professional system to collect, process, and visualize Formula 1 race data. It provides fans, analysts, and teams with interactive insights into races, drivers, and cars, as well as immersive lap simulations and 3D car models.",
+  "requestFramePermissions": []
+}
